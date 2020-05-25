@@ -1,2 +1,2 @@
-# Cp-interviewbit
+# Coding questions
 Solved questions from interviewbit
